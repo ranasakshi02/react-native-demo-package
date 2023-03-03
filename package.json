@@ -1,0 +1,23 @@
+{
+  "name": "rn-demo-test-package",
+  "version": "1.0.0",
+  "description": "This is demo package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranasakshi02/react-native-demo-package.git"
+  },
+  "keywords": [
+    "react",
+    "react-native"
+  ],
+  "author": "Sakshi Rana <sakshi.rana@solulab.com> (http://example.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranasakshi02/react-native-demo-package/issues"
+  },
+  "homepage": "https://github.com/ranasakshi02/react-native-demo-package#readme"
+}
